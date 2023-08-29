@@ -6,4 +6,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 43 L03 Github Setup
+ZCZC W00 43 L03 GitHub Setup
