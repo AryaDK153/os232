@@ -7,4 +7,4 @@
 # LogCode + Description List
 
 ZCZC W00 77 L03 GitHub Setup
-ZCZC W00 78 L02 Synchronous Class Session
+ZCZC W00 100 L02 Synchronous Class Session
