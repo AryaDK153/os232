@@ -1,2 +1,2 @@
-# [os232](https://github.com/AryaDK153/os232/)
+# [os232](https://aryadk153.github.io/os232/)
 # OS232
