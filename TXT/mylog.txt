@@ -7,7 +7,10 @@
 # LogCode + Description List
 
 ZCZC  W00  103  L03  GitHub Setup
-ZCZC  W00  650  L02  Synchronous Class Sessions: 13 sks
+ZCZC  W00  200  L02  Synchronous Class Sessions
+ZCZC  W00  139  L10  Weekly Assignment #00
 ZCZC  W00  010  L21  Weekly Quiz Trial: Dummy Quiz
-ZCZC  W00  106  L10  Weekly Assignment #00
-ZCZC  W00  360  L73  Online Games Daily Login: Genshin Impact and Honkai Star Rail
+ZCZC  W00  051  L63  Temporary Fix for Broken Laptop Hinge and Failed Attempts on Getting Permanent Fixes
+ZCZC  W00  450  L70  Synchronous Class Sessions: Others (9 sks)
+ZCZC  W00  367  L73  Daily Login: Genshin Impact and Honkai Star Rail
+ZCZC  W00  160  L80  Weekly Seasonal Anime
