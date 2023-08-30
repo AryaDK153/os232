@@ -9,7 +9,7 @@
 ZCZC  W00  200  L02  Synchronous Class Sessions
 ZCZC  W00  103  L03  GitHub Setup
 ZCZC  W00  006  L06  Browsing for Reference Books and Papers
-ZCZC  W00  160  L10  Weekly Assignment #00
+ZCZC  W00  180  L10  Weekly Assignment #00
 ZCZC  W00  010  L21  Weekly Quiz Trial: Dummy Quiz
 ZCZC  W00  051  L63  Temporary Fix for Broken Laptop Hinge and Failed Attempts on Getting Permanent Fixes
 ZCZC  W00  450  L70  Synchronous Class Sessions: Others (9 sks)
