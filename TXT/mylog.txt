@@ -6,7 +6,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC  W00  200  L02  Synchronous Class Sessions
+ZCZC  W00  200  L02  Synchronous Class Sessions: OS (4 sks)
 ZCZC  W00  103  L03  GitHub Setup
 ZCZC  W00  6  L06  Browsing for Reference Books and Papers
 ZCZC  W00  180  L10  Weekly Assignment #00
