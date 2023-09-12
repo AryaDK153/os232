@@ -28,3 +28,6 @@ ZCZC W01 254 L27 SSH Connection Refusal Problem
 ZCZC W01 570 L70 Synchronous Class Sessions: Others (10 sks) + Homework + Quiz
 ZCZC W01 343 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W01 160 L80 Weekly Seasonal Anime
+
+ZCZC W02 0 L02 Synchronous Class Sessions: OS (current total: 0 sks)
+ZCZC W02 25 L06 Read slide 16 and 17 as part of week #02 assignments
