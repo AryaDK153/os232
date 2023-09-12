@@ -30,4 +30,4 @@ ZCZC W01 343 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W01 160 L80 Weekly Seasonal Anime
 
 ZCZC W02 0 L02 Synchronous Class Sessions: OS (current total: 0 sks)
-ZCZC W02 25 L06 Read slide 16 and 17 as part of week #02 assignments
+ZCZC W02 30 L06 Read slide 16 and 17 as part of week #02 assignments
