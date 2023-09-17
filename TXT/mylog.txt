@@ -30,7 +30,11 @@ ZCZC W01 343 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W01 160 L80 Weekly Seasonal Anime
 
 ZCZC W02 100 L02 Synchronous Class Sessions: OS (current total: 2 sks)
-ZCZC W02 56 L06 Read slide 16 and 17 as part of week #02 assignments
+ZCZC W02 14 L05 Weekly Quiz #02
+ZCZC W02 79 L06 Read slide 16 and 17 as part of week #02 assignments
 ZCZC W02 120 L07 Trying out Week02 Demos
-ZCZC W02 219 L12 Weekly Assignment #02
-ZCZC W02 20 L26 GnuPG - Generate and Export Key 
+ZCZC W02 238 L12 Weekly Assignment #02
+ZCZC W02 20 L26 GnuPG - Generate and Export Key
+ZCZC W02 690 L70 Synchronous Class Sessions: Others (10 sks) + Homework + Quiz
+ZCZC W02 453 L73 Daily Login: Genshin Impact and Honkai Star Rail
+ZCZC W02 160 L80 Weekly Seasonal Anime
