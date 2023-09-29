@@ -52,4 +52,4 @@ ZCZC W02 30 L06 Read slide 9 as part of week #04 assignments
 ZCZC W03 5 L07 Trying out Week04 Demos
 ZCZC W04 30 L14 Weekly Assignment #04
 ZCZC W03 200 L70 Synchronous Class Sessions: Others (Current total: 4 sks) + Homework(Current total: 0 minutes) + Quiz (Current Total: 0 minute)
-ZCZC W04 45 L73 Daily Login: Genshin Impact and Honkai Star Rail
+ZCZC W04 340 L73 Daily Login: Genshin Impact and Honkai Star Rail
