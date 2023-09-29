@@ -42,7 +42,14 @@ ZCZC W02 160 L80 Weekly Seasonal Anime
 ZCZC W03 200 L02 Synchronous Class Sessions: OS (current total: 4 sks)
 ZCZC W03 15 L05 Weekly Quiz #03
 ZCZC W03 30 L07 Trying out Week03 Demos
-ZCZC W03 169 L12 Weekly Assignment #03
+ZCZC W03 169 L13 Weekly Assignment #03
 ZCZC W03 670 L70 Synchronous Class Sessions: Others (10 sks) + Homework + Quiz
 ZCZC W03 370 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W03 160 L80 Weekly Seasonal Anime
+
+ZCZC W04 100 L02 Synchronous Class Sessions: OS (Current total: 2 sks)
+ZCZC W02 30 L06 Read slide 9 as part of week #04 assignments
+ZCZC W03 5 L07 Trying out Week04 Demos
+ZCZC W04 30 L14 Weekly Assignment #04
+ZCZC W03 200 L70 Synchronous Class Sessions: Others (Current total: 4 sks) + Homework(Current total: 0 minutes) + Quiz (Current Total: 0 minute)
+ZCZC W04 45 L73 Daily Login: Genshin Impact and Honkai Star Rail
