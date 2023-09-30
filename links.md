@@ -18,10 +18,14 @@ credits to: ArvinCS
 * [File System Debian](https://wiki.debian.org/FileSystem)
 
 ### WEEK 03
-*  [What is virtual memory? – Gary explains (by Android Authority)](https://www.youtube.com/watch?v=2quKyPnUShQ)
-*  [devhints - Bash CheatSheet](https://devhints.io/bash) ---
+* [What is virtual memory? – Gary explains (by Android Authority)](https://www.youtube.com/watch?v=2quKyPnUShQ)
+* [devhints - Bash CheatSheet](https://devhints.io/bash) ---
 Some more examples for linux commands
-*  [ideone](https://ideone.com/) ---
+* [ideone](https://ideone.com/) ---
 Lets you test out commands without the need to start localhost/virtualbox (since I'm using virtualbox in windows)
+
+### WEEK 04
+* [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) ---
+A short 8 minutes video about pointers in relation to computer memory. Helps with understanding how to setup and use pointer variables.
 <br>
 <hr>
