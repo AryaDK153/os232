@@ -27,5 +27,9 @@ Lets you test out commands without the need to start localhost/virtualbox (since
 ### WEEK 04
 * [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) ---
 A short 8 minutes video about pointers in relation to computer memory. Helps with understanding how to setup and use pointer variables.
+
+### WEEK 05
+* https://www.geeksforgeeks.org/c-programming-language/ ---
+This week we're supposed to edit a certain c coded file, thus it is a good idea to try to read and understand the codes that are already written before editing.
 <br>
 <hr>
