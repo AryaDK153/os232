@@ -63,3 +63,11 @@ ZCZC W05 1100 L70 Synchronous Class Sessions: Others (Current total: 10 sks) + H
 ZCZC W05 8 L41 Log Update
 ZCZC W05 340 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W05 180 L80 weekly Seasonal Anime
+
+ZCZC W06 200 L02 Synchronous Class Sessions: OS (current total: 4 sks)
+ZCZC W06 15 L05 Weekly Quiz #05
+ZCZC W06 10 L07 Trying out Week06 Demos
+ZCZC W06 10 L16 Weekly Assignment #06
+ZCZC W06 15 L41 Log Update W06 - Note: Assuming log starts right after W05 ended (deadline of Assignment #05)
+ZCZC W06 720 L70 Synchronous Class Sessions: Others (Current total: 6) + Self Study: Reviewing other classes' lessons for Midterm Exam (About 7 hours each. Forgot to keep track)
+ZCZC W06 640 L73 Daily Login: Genshin Impact and Honkai Star Rail
