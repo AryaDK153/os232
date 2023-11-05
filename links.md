@@ -33,3 +33,7 @@ A short 8 minutes video about pointers in relation to computer memory. Helps wit
 This week we're supposed to edit a certain c coded file, thus it is a good idea to try to read and understand the codes that are already written before editing.
 <br>
 <hr>
+
+### WEEK 06
+* https://www.geeksforgeeks.org/fork-system-call/ ---
+This week we're learning about forking and processes. It may take a while to understand about the forking processes into parent and child processes and fork() command in C, so it's always good to start from the basics.
