@@ -65,9 +65,10 @@ ZCZC W05 340 L73 Daily Login: Genshin Impact and Honkai Star Rail
 ZCZC W05 180 L80 weekly Seasonal Anime
 
 ZCZC W06 85 L02 Synchronous Class Sessions: OS (current total: 2 sks - 15 minutes late)
-ZCZC W06 0 L05 Weekly Quiz #06
+ZCZC W06 15 L05 Weekly Quiz #06
 ZCZC W06 30 L07 Trying out Week06 Demos
 ZCZC W06 50 L16 Weekly Assignment #06
-ZCZC W06 15 L41 Log Update W06
-ZCZC W06 360 L70 Synchronous Class Sessions: Others (Current total: 6) + Self Study (60 minutes)
-ZCZC W06 240 L73 Daily Login: Genshin Impact and Honkai Star Rail
+ZCZC W06 20 L41 Log Update
+ZCZC W06 15 L43 TXT/myrank.txt Update
+ZCZC W06 1120 L70 Synchronous Class Sessions: Others (Current total: 8) + Self Study (60 minutes) + Homeworks (10 hours) + Quiz (60 minutes)
+ZCZC W06 400 L73 Daily Login: Genshin Impact, Honkai Star Rail, and Dead By Daylight
