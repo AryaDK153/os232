@@ -37,3 +37,11 @@ This week we're supposed to edit a certain c coded file, thus it is a good idea 
 ### WEEK 06
 * https://www.geeksforgeeks.org/fork-system-call/ ---
 This week we're learning about forking and processes. It may take a while to understand about the forking processes into parent and child processes and fork() command in C, so it's always good to start from the basics.
+
+### WEEK 07
+* https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/ ---
+About Deadlock
+* https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/ ---
+About Banker's Algorithm
+* https://www.geeksforgeeks.org/use-posix-semaphores-c/ ---
+Quick help on using semaphore in C language
