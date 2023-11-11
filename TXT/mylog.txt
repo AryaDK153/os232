@@ -72,3 +72,12 @@ ZCZC W06 20 L41 Log Update
 ZCZC W06 15 L43 TXT/myrank.txt Update
 ZCZC W06 1120 L70 Synchronous Class Sessions: Others (Current total: 8) + Self Study (60 minutes) + Homeworks (10 hours) + Quiz (60 minutes)
 ZCZC W06 400 L73 Daily Login: Genshin Impact, Honkai Star Rail, and Dead By Daylight
+
+ZCZC W07 200 L02 Synchronous Class Sessions: OS (Current total: 4 sks)
+ZCZC W07 7 L05 Weekly Quiz #07
+ZCZC W07 50 L07 Trying out Week07 Demos
+ZCZC W07 60 L17 Weekly Assignment #07
+ZCZC W07 20 L41 Log Update
+ZCZC W07 15 L43 TXT/myrank.txt Update
+ZCZC W07 610 L70 Synchronous Class Sessions: Others (Current total: 10 sks) + Homework(Current total: 50 minutes) + Quiz (Current Total: 60 minute)
+ZCZC W07 340 L73 Daily Login: Genshin Impact and Honkai Star Rail
